@@ -1,0 +1,26 @@
+{
+  "name": "bluebird-util",
+  "version": "1.0.0",
+  "description": "Control flow utilities for Bluebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrVoltz/bluebird-util.git"
+  },
+  "keywords": [
+    "bluebird",
+    "promise"
+  ],
+  "author": "MrVoltz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrVoltz/bluebird-util/issues"
+  },
+  "homepage": "https://github.com/MrVoltz/bluebird-util#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
